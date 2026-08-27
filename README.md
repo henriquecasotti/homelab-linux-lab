@@ -32,7 +32,6 @@ Implementação de uma stack de monitoramento self-hosted, do zero, em uma VM Li
 
 ![Grafana Dashboard 2](screenshots/grafana-dashboard-2.png)
 
-**Habilidades demonstradas:** administração de serviços Linux via systemd, configuração de métricas e séries temporais, criação de dashboards de observabilidade, hardening básico de serviços.
 
 ## 🐳 Projeto 2 — Ambiente de Containers com Docker
 
@@ -44,8 +43,6 @@ Configuração de ambiente Docker na VM Linux Mint para deploy e gerenciamento d
 - Diagnóstico de erros de inicialização de container via docker logs, identificando e corrigindo variáveis de ambiente inválidas
 
 ![Docker](screenshots/docker-ps.png).
-
-**Habilidades demonstradas:** troubleshooting de repositórios APT, gestão de containers Docker, leitura e diagnóstico de logs, resolução de problemas de configuração.
 
 ## 🎛️ Projeto 3 — Dashboard Central (Homarr)
 
@@ -60,7 +57,6 @@ Implementação de um painel visual centralizado para gestão de todos os servi�
 
 
 
-**Habilidades demonstradas:** deploy de aplicações via Docker Compose, integração entre serviços, customização de interface (CSS).
 
 ## 🔐 Boas Práticas de Segurança Aplicadas
 
