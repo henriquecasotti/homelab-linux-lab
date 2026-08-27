@@ -43,7 +43,7 @@ Configuração de ambiente Docker na VM Linux Mint para deploy e gerenciamento d
 - Configuração de containers via docker-compose.yml, incluindo gerenciamento de variáveis de ambiente sensíveis (chaves de criptografia)
 - Diagnóstico de erros de inicialização de container via docker logs, identificando e corrigindo variáveis de ambiente inválidas
 
-screenshots/docker-ps.png
+![Docker](screenshots/docker-ps.png).
 
 **Habilidades demonstradas:** troubleshooting de repositórios APT, gestão de containers Docker, leitura e diagnóstico de logs, resolução de problemas de configuração.
 
@@ -56,7 +56,7 @@ Implementação de um painel visual centralizado para gestão de todos os servi�
 - Cadastro e organização de aplicações (Grafana, Prometheus) com widgets de status em tempo real
 - Customização visual do painel via CSS personalizado
 
-screenshots/homarr-dashboard.png
+![Homarr](screenshots/homarr-dashboard.png).
 
 
 
