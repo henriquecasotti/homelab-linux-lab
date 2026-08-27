@@ -28,8 +28,9 @@ Implementação de uma stack de monitoramento self-hosted, do zero, em uma VM Li
 - Instalação do Grafana e conexão como fonte de dados ao Prometheus
 - Importação e customização de dashboard visual (Node Exporter Full), com tema escuro e auto-refresh, para visualização em tempo real
 
-screenshots/grafana-dashboard-1.png
-screenshots/grafana-dashboard-2.png
+![Grafana Dashboard 1](screenshots/grafana-dashboard-1.png)
+
+![Grafana Dashboard 2](screenshots/grafana-dashboard-2.png)
 
 **Habilidades demonstradas:** administração de serviços Linux via systemd, configuração de métricas e séries temporais, criação de dashboards de observabilidade, hardening básico de serviços.
 
@@ -56,7 +57,7 @@ Implementação de um painel visual centralizado para gestão de todos os servi�
 - Customização visual do painel via CSS personalizado
 
 screenshots/homarr-dashboard.png
-![Descrição da imagem](screenshots/docker-ps.png)
+
 
 
 **Habilidades demonstradas:** deploy de aplicações via Docker Compose, integração entre serviços, customização de interface (CSS).
