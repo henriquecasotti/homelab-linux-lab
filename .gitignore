@@ -1,0 +1,15 @@
+*.env
+.env
+secrets.yaml
+secrets.yml
+*.key
+*.pem
+appdata/
+homarr/appdata/
+compose.yaml
+docker-compose.yaml
+docker-compose.yml
+!*.example.yaml
+!*.example.yml
+*.log
+.DS_Store
