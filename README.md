@@ -56,6 +56,8 @@ Implementação de um painel visual centralizado para gestão de todos os servi�
 - Customização visual do painel via CSS personalizado
 
 screenshots/homarr-dashboard.png
+![Descrição da imagem](screenshots/docker-ps.png)
+
 
 **Habilidades demonstradas:** deploy de aplicações via Docker Compose, integração entre serviços, customização de interface (CSS).
 
